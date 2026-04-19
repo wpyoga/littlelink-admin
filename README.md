@@ -53,13 +53,15 @@ password: 12345678
 - [laravel]
 - [panel template]
 
-## 🎲 [Donate](#donate)
+## Fork notes
 
-bitcoin: 1FQJWCZJoLKfJei7NFisTH65yNUjugJRi4
+- Reverted to last good commit, with AGPL license
+- Removed bitcoin donate wallet, since it's not mine
+- Feel free to build upon this fork
 
-   [littlelink]: <https://github.com/sethcottle/littlelink>
-   [linktree]: <https://linktr.ee>
-   [home]: <https://github.com/khzg/littlelink-admin/blob/main/demo-home.png>
-   [panel]: <https://github.com/khzg/littlelink-admin/blob/main/demo-panel.png>
-   [laravel]: <https://github.com/laravel/laravel>
-   [panel template]: <https://colorlib.com/wp/bootstrap-sidebar>
+   [littlelink]: https://github.com/sethcottle/littlelink
+   [linktree]: https://linktr.ee
+   [home]: demo-home.png
+   [panel]: demo-panel.png
+   [laravel]: https://github.com/laravel/laravel
+   [panel template]: https://colorlib.com/wp/bootstrap-sidebar
